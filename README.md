@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Illustration of Shreya Rathore">
+<img src="./download(4).jpg" width="100%" alt="Illustration of Shreya Rathore">
 
 <h1>Shreya Rathore</h1>
 
