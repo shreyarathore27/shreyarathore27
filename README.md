@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./download(4).jpg" width="100%" alt="Illustration of Shreya Rathore">
-
+<img src="./download%20(4).jpg" width="100%" alt="Illustration of Shreya Rathore">
 <h1>Shreya Rathore</h1>
 
 **B.Tech Computer Science and Engineering (AI) · IGDTUW · 2028**
